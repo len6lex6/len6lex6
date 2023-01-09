@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @len6lex6
-- 👀 I’m interested in AI, IoT and Web Development
-- 🌱 I’m currently learning AI and Web Developing
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me blnkumar8669@gmail.com
 
